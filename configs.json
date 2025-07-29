@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "text": "vmess://example-config-1",
+    "used": false
+  },
+  {
+    "id": 2,
+    "text": "vmess://example-config-2",
+    "used": false
+  }
+]
